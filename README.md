@@ -7,3 +7,5 @@ Nesse momento, o repositório está em construção e ainda estamos atualizando 
 
 Vamos aprender a fazer um commit local :P
 alteração
+
+estou alterando direto na web tal qual um psicopata.
